@@ -2,11 +2,18 @@ body{
     background-color: #fff0f5;
 }
 h1{
-    color: #F6A5C0;
+    color: #333333;
     font-size: 80px;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-size: 80px;
+}
+#mainTitulo{
+    color: #F6A5C0;
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 80px; 
 }
 h2 {
     color: #5f5b5c;
@@ -60,4 +67,58 @@ p, li{
 #barraFont {
     font-family: cursive;
     font-size: 15px;
+}
+#carouselExample{
+    width: 800px;
+}
+#ts1989{
+background-color: #C5E0DC;
+}
+#fearless{
+    background-color: #fcfcda; 
+}
+#evermore{
+    background-color: #f9d99a;
+}
+#folklore{
+    background-color: #bdbfbf;
+}
+#speaknow{
+    background-color: #dfcae1;
+}
+#red{
+    background-color: #ff6565;
+}
+#midnights{
+    background-color: #6a9eda;
+}
+#rep{
+    background-color: #bdbfbf;
+}
+#redT{
+    font-size: 50px;
+}
+#folT{
+    font-size: 50px;
+}
+#ts1989T{
+    font-size: 50px;
+}
+#midT{
+    font-size: 50px;
+}
+#speaknowT{
+    font-size: 50px;
+}
+#everT{
+    font-size: 50px;
+}
+#loverT{
+    font-size: 50px;
+}
+#repT{
+    font-size: 50px;
+}
+#fearT{
+    font-size: 50px;
 }
