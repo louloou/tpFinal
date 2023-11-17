@@ -18,20 +18,20 @@ h1{
 h2 {
     color: #5f5b5c;
     font-family: cursive;
-    padding: 20px;
-    font-size: 25px;
+    padding: 25px;
+    font-size: 20px;
 }
 h3{
     color: #aa7486;
     font-family: initial;
     padding: 20px;
-    font-size: 30px;
+    font-size: 40px;
 }
 p, li{
     color: #5f5b5c;
-    font-family: cursive;
-    padding: 10px;
-    font-size: 20px;
+    padding: 5px;
+    font-family: unset;
+    font-size: 25px;
 }
 
 #cardTitulo{
@@ -75,7 +75,7 @@ p, li{
 background-color: #C5E0DC;
 }
 #fearless{
-    background-color: #fcfcda; 
+    background-color:#feeeb8; 
 }
 #evermore{
     background-color: #f9d99a;
@@ -87,8 +87,7 @@ background-color: #C5E0DC;
     background-color: #dfcae1;
 }
 #red{
-    background-color:#cb4c46
-    ;
+    background-color:#c91034;
 }
 #midnights{
     background-color: #6a9eda;
@@ -96,8 +95,12 @@ background-color: #C5E0DC;
 #rep{
     background-color: #bdbfbf;
 }
+#red{
+    color: white;
+}
 #redT{
     font-size: 50px;
+    
 }
 #folT{
     font-size: 50px;
@@ -126,4 +129,10 @@ background-color: #C5E0DC;
 .centrar{
     display: flex;
     justify-content: center;
+}
+#lover{
+    background: #fddee9;
+}
+#fear{
+    background-color:#f0dea4
 }
