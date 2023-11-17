@@ -87,7 +87,8 @@ background-color: #C5E0DC;
     background-color: #dfcae1;
 }
 #red{
-    background-color: #ff6565;
+    background-color:#cb4c46
+    ;
 }
 #midnights{
     background-color: #6a9eda;
@@ -121,4 +122,8 @@ background-color: #C5E0DC;
 }
 #fearT{
     font-size: 50px;
+}
+.centrar{
+    display: flex;
+    justify-content: center;
 }
