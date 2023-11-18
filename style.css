@@ -46,7 +46,7 @@ p, li{
     background-color: white;
     padding: 250 px;
     width: 650px;
-    height: 720px;
+    height: 800px;
     text-align: center;
     margin: 20px;border-radius: 20px;
     box-shadow: 0px 1px 10px rgba(0,0,0,0.2);
@@ -83,48 +83,27 @@ background-color: #C5E0DC;
 #folklore{
     background-color: #bdbfbf;
 }
-#speaknow{
+#speaknowBG{
     background-color: #dfcae1;
 }
-#red{
+#redBG{
     background-color:#c91034;
 }
 #midnights{
     background-color: #6a9eda;
 }
-#rep{
+#repBG{
     background-color: #bdbfbf;
 }
-#red{
+#redMT{
     color: white;
+}
+#folT, #ts1989T, #midT, #speaknowT, #everT,#loverT, #repT, #fearT {
+    font-size: 50px;
 }
 #redT{
     font-size: 50px;
-    
-}
-#folT{
-    font-size: 50px;
-}
-#ts1989T{
-    font-size: 50px;
-}
-#midT{
-    font-size: 50px;
-}
-#speaknowT{
-    font-size: 50px;
-}
-#everT{
-    font-size: 50px;
-}
-#loverT{
-    font-size: 50px;
-}
-#repT{
-    font-size: 50px;
-}
-#fearT{
-    font-size: 50px;
+    color: white;
 }
 .centrar{
     display: flex;
@@ -134,5 +113,17 @@ background-color: #C5E0DC;
     background: #fddee9;
 }
 #fear{
-    background-color:#f0dea4
+    background-color:#ffeba8
+}
+#ever{
+    background-color: #ffde9c;
+}
+#rep{
+    background-color:  #b1b1b1;
+}
+#speaknow{
+    background-color:  #c9bbca;
+}
+#red{
+background-color: #eeeeee;
 }
