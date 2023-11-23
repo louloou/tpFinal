@@ -1,15 +1,12 @@
-let imagen = document.querySelector('.imagen')
+let = fotoMostrada = "imagen/loverS1.jpg"
 
 
-let boton = document.querySelector('#cambiarImagen')
+function miFuncion(){
+    let elemento= document.getElementById("foto")
+    elemento.src = "imagenes/loverS2.jpg"
 
-let imagenCambiada = false;
-
-boton.onclick = function () {
-    if (imagenCambiada == false) {
-        imagen.src = 'imagenes/enchanted.webp'
-        imagenCambiada = true
-    }else{
-        imagen.src = "imagenes/imagenes/27taylor-metlife-01-topart-tbvp-videoSixteenByNineJumbo1600-v2.jpg"
-        imagenCambiada = false
-    } }
+    if(fotoMostrada == "imagenes/loverS1.jpg"){
+        imagen.src ="imagenes/loverS2.jpg";
+        fotoMostrada= "imagenes/loverS2.jpg"
+    }
+}
