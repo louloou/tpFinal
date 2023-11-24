@@ -103,7 +103,7 @@ background-color: #C5E0DC;
 }
 #redT{
     font-size: 50px;
-    color: white;
+    color: rgb(238, 235, 235);
 }
 .centrar{
     display: flex;
@@ -135,7 +135,8 @@ background-color: #eeeeee;
 }
 #mid{
     background-color: #8ab3e2;
+
 }
-#foto {
+img {
     width: 300px;
 }
