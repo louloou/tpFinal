@@ -140,3 +140,17 @@ background-color: #eeeeee;
 img {
     width: 300px;
 }
+.my-button {
+    padding: 10px 20px;
+    background-color:  #847d86;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .my-button:hover {
+    background-color:  #b7aabd;
+  }
+  .my-button:active {
+    background-color:  #b7aabd;
+  }
